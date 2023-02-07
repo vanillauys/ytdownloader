@@ -6,15 +6,22 @@ A CLI YouTube downloader written in Python
 
 Create a vurtual environment for the application:
 
+
 ```python3 -m venv venv```
 ```source venv/bin/activate```
 
+
 Run the application:
 
+
 Get help:
+
+
 ```python3 src/app.py --help```
 
 Download from a url:
+
+
 ```python3 src/app.py {url}```
 
 
